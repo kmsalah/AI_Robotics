@@ -11,3 +11,7 @@ Part 2 of this project creates an action planner using the SLAM module. The purp
 through an environment and extract a list of gems.
 
 
+
+
+https://user-images.githubusercontent.com/19877797/223043769-7e4e89c7-b1e1-4622-bf18-3c4852b72b57.mp4
+
