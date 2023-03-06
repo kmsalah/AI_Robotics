@@ -7,3 +7,6 @@ from a downwards facing radar and a altitude estimate from a barometric pressure
 The first part of this project determiens the next location of the glider given its atmospheric height and the radar distance to the ground.
 
 The second part of the project is to set the turn angle of the glider so that the glider returns to the center of the map.
+
+https://user-images.githubusercontent.com/19877797/223037069-531b12ad-6d53-4072-9019-bf24cfa42500.mp4
+
